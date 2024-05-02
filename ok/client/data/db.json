@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "sai",
+      "phone": "1234567890",
+      "feedback": "nice website",
+      "rating": 3,
+      "timestamp": "2023-11-30T21:13:44.166Z",
+      "id": 3
+    },
+    {
+      "name": "kumar",
+      "phone": "1234567890",
+      "feedback": "work is good",
+      "rating": 2,
+      "timestamp": "2023-11-30T21:22:59.503Z",
+      "id": 4
+    },
+    {
+      "name": "appi",
+      "phone": "0987654321",
+      "feedback": "ok good",
+      "rating": 4,
+      "timestamp": "2023-12-01T07:37:36.437Z",
+      "id": 5
+    },
+    {
+      "name": "suhas",
+      "phone": "8989898989",
+      "feedback": "nice Admin page cart page is also good",
+      "rating": 1,
+      "timestamp": "2023-12-01T11:49:28.465Z",
+      "id": 6
+    }
+  ]
+}
